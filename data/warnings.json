@@ -1,0 +1,26 @@
+[
+  {
+    "id": "E9128C69",
+    "server_id": 1479553527222239275,
+    "user_id": 1365071801201463330,
+    "moderator_id": 1019698414839156817,
+    "reason": "Breaking rule #3",
+    "timestamp": "2026-04-18T04:17:54.990543+00:00"
+  },
+  {
+    "id": "7561FCDC",
+    "server_id": 1479553527222239275,
+    "user_id": 1019698414839156817,
+    "moderator_id": 1019698414839156817,
+    "reason": "test",
+    "timestamp": "2026-04-18T04:18:09.409252+00:00"
+  },
+  {
+    "id": "4911DE25",
+    "server_id": 1479553527222239275,
+    "user_id": 1365071801201463330,
+    "moderator_id": 1019698414839156817,
+    "reason": "Using commands in general chat instead of the designated bot cmds channel",
+    "timestamp": "2026-04-27T16:08:42.052723+00:00"
+  }
+]

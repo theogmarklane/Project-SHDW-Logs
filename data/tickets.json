@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C49CA8CF",
+    "server_id": 1276298012393607231,
+    "channel_id": 1494408185061314743,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "closed",
+    "created_at": "2026-04-16T18:44:36.189559+00:00"
+  },
+  {
+    "id": "647CEFB8",
+    "server_id": 1479553527222239275,
+    "channel_id": 1495090033252630629,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "closed",
+    "created_at": "2026-04-18T15:54:01.540966+00:00"
+  },
+  {
+    "id": "F79C3A89",
+    "server_id": 1276298012393607231,
+    "channel_id": 1496344974558494721,
+    "user_id": 1437205774853214270,
+    "ticket_type": "report_user",
+    "status": "closed",
+    "created_at": "2026-04-22T03:00:42.899443+00:00"
+  },
+  {
+    "id": "5A1B9613",
+    "server_id": 1276298012393607231,
+    "channel_id": 1496661869459537940,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "closed",
+    "created_at": "2026-04-22T23:59:56.391999+00:00"
+  },
+  {
+    "id": "6FD34BB4",
+    "server_id": 1496679534538395750,
+    "channel_id": 1497585091625488495,
+    "user_id": 1493513083614789683,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-04-25T13:08:29.830386+00:00"
+  },
+  {
+    "id": "EDE223A3",
+    "server_id": 1496679534538395750,
+    "channel_id": 1497796930678296687,
+    "user_id": 1023366461667954779,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-04-26T03:10:16.110413+00:00"
+  }
+]

@@ -42,10 +42,10 @@
     "display_name": "DoNOT :3 TheDonut :>"
   },
   "1019698414839156817": {
-    "xp": 1916,
+    "xp": 2556,
     "level": 11,
-    "username": "2clickdeath",
-    "display_name": "2𝔠𝔩𝔦𝔠𝔨𝔡𝔢𝔞𝔱𝔥",
+    "username": "xenor_dev",
+    "display_name": "Xenor",
     "dabloons": Infinity,
     "bio": "test",
     "show_status": 1,
@@ -82,14 +82,14 @@
     "display_name": "Daoon_Draws"
   },
   "1141232275447631932": {
-    "xp": 908,
+    "xp": 1078,
     "level": 12,
     "username": "_darknullbyte",
     "display_name": "ᴅᴀʀᴋɴᴜʟʟʙʏᴛᴇ",
-    "dabloons": 39.0
+    "dabloons": 1e+30
   },
   "1365071801201463330": {
-    "xp": 2090,
+    "xp": 2140,
     "level": 8,
     "username": "mongoose12345678",
     "display_name": "𝔐𝔬𝔫𝔤𝔬𝔬𝔰𝔢",
@@ -159,7 +159,7 @@
     "xp": 379,
     "level": 4,
     "username": "meowl_30874",
-    "display_name": "𝓜𝓪𝔁"
+    "display_name": "Макс"
   },
   "1402071741332721786": {
     "xp": 10,
@@ -180,10 +180,11 @@
     "display_name": "Bully maguire"
   },
   "1079826643922722848": {
-    "xp": 120,
-    "level": 2,
+    "xp": 248,
+    "level": 3,
     "username": "iriss.01",
-    "display_name": "Iris"
+    "display_name": "Iris",
+    "dabloons": 1e+19
   },
   "1211855491299414056": {
     "xp": 160,
@@ -246,7 +247,7 @@
     "display_name": "Mvm"
   },
   "1261882573039206401": {
-    "xp": 199,
+    "xp": 209,
     "level": 4,
     "username": "piggawigga_109",
     "display_name": "Lebonbon",
@@ -272,7 +273,7 @@
     "display_name": "MM/MOMO'S MAD/ES/UOF/FM"
   },
   "1396734690391490590": {
-    "xp": 120,
+    "xp": 190,
     "level": 2,
     "username": "guy099781",
     "display_name": "Guy"
@@ -494,7 +495,7 @@
     "display_name": "Joker"
   },
   "1491064232433815696": {
-    "xp": 90,
+    "xp": 100,
     "level": 2,
     "username": "nazfrmda4",
     "display_name": "Nazfrmda4"
@@ -587,7 +588,7 @@
     "xp": 10,
     "level": 1,
     "username": "perkyy3x",
-    "display_name": "𝙥𝙚𝙧𝙠𝙮𝙮3𝙭"
+    "display_name": "Perkyyy3x"
   },
   "1194088224222625804": {
     "xp": 80,
@@ -674,7 +675,7 @@
     "display_name": "BFB"
   },
   "1220968702200250368": {
-    "xp": 319,
+    "xp": 489,
     "level": 4,
     "username": "scoot04889",
     "display_name": "AETHER",
@@ -701,7 +702,7 @@
   "1154831268782022656": {
     "xp": 20,
     "level": 1,
-    "username": "t13_q",
+    "username": "u87z",
     "display_name": "uhhhh"
   },
   "1426366322056499200": {
@@ -1154,5 +1155,11 @@
     "level": 1,
     "username": "macnchldren_93016",
     "display_name": "Mac'nChldren"
+  },
+  "1109392075318898708": {
+    "xp": 10,
+    "level": 1,
+    "username": "manthhhhhhhhhhhvapppeuuv4",
+    "display_name": "cubk"
   }
 }

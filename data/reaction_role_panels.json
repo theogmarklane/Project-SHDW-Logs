@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "guild_id": 1345393622895300672,
+    "channel_id": 1499934252345852046,
+    "message_id": 1500273543538020443,
+    "title": "Which character do you like the most?",
+    "mode": "dropdown",
+    "items": [
+      {
+        "role_id": 1500237946928890067,
+        "emoji": "",
+        "label": "Sonic lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500238042701758504,
+        "emoji": "",
+        "label": "Tails lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500238315897753611,
+        "emoji": "",
+        "label": "Knuckles Lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500238418121195660,
+        "emoji": "",
+        "label": "Amy lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500238504485978183,
+        "emoji": "",
+        "label": "Shadow Lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500242468740796466,
+        "emoji": "",
+        "label": "Silver Lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500242368199397466,
+        "emoji": "",
+        "label": "Metal Sonic lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500242223931850782,
+        "emoji": "",
+        "label": "Eggman lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500245111940976832,
+        "emoji": "",
+        "label": "Rouge Lover",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500244737888747520,
+        "emoji": "",
+        "label": "Blaze Lover",
+        "style": "primary"
+      }
+    ]
+  }
+]

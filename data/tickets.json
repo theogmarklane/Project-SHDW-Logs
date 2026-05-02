@@ -52,5 +52,14 @@
     "ticket_type": "purchase",
     "status": "open",
     "created_at": "2026-04-26T03:10:16.110413+00:00"
+  },
+  {
+    "id": "82452AB4",
+    "server_id": 1479553527222239275,
+    "channel_id": 1499974049886113833,
+    "user_id": 1146993229015822376,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-05-02T03:21:21.932340+00:00"
   }
 ]

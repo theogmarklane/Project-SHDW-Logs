@@ -59,7 +59,16 @@
     "channel_id": 1499974049886113833,
     "user_id": 1146993229015822376,
     "ticket_type": "purchase",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-02T03:21:21.932340+00:00"
+  },
+  {
+    "id": "4F8FD68C",
+    "server_id": 1276298012393607231,
+    "channel_id": 1501022558030401627,
+    "user_id": 1431587812603596911,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-05-05T00:47:45.683825+00:00"
   }
 ]

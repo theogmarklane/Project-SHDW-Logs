@@ -95,7 +95,7 @@
     "channel_id": 1501396911406715032,
     "user_id": 1019698414839156817,
     "ticket_type": "support",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-06T01:35:18.549625+00:00"
   },
   {
@@ -104,7 +104,7 @@
     "channel_id": 1501396935800655932,
     "user_id": 1019698414839156817,
     "ticket_type": "purchase",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-06T01:35:24.463063+00:00"
   },
   {
@@ -113,7 +113,7 @@
     "channel_id": 1501396956398751744,
     "user_id": 1019698414839156817,
     "ticket_type": "report_user",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-06T01:35:29.239641+00:00"
   },
   {
@@ -122,7 +122,7 @@
     "channel_id": 1501396975239696530,
     "user_id": 1019698414839156817,
     "ticket_type": "bot_issue",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-06T01:35:33.865828+00:00"
   },
   {
@@ -133,5 +133,59 @@
     "ticket_type": "other",
     "status": "closed",
     "created_at": "2026-05-06T01:35:47.952841+00:00"
+  },
+  {
+    "id": "B87B0ED8",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501426608849027164,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "closed",
+    "created_at": "2026-05-06T03:33:19.031486+00:00"
+  },
+  {
+    "id": "36F57BFA",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501426682228113488,
+    "user_id": 1019698414839156817,
+    "ticket_type": "purchase",
+    "status": "closed",
+    "created_at": "2026-05-06T03:33:36.375268+00:00"
+  },
+  {
+    "id": "27292732",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501426727291719750,
+    "user_id": 1019698414839156817,
+    "ticket_type": "report_user",
+    "status": "open",
+    "created_at": "2026-05-06T03:33:47.196965+00:00"
+  },
+  {
+    "id": "2AD3D9D8",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501426743926460516,
+    "user_id": 1019698414839156817,
+    "ticket_type": "bot_issue",
+    "status": "open",
+    "created_at": "2026-05-06T03:33:51.099046+00:00"
+  },
+  {
+    "id": "72DC91B7",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501426757172068413,
+    "user_id": 1019698414839156817,
+    "ticket_type": "other",
+    "status": "closed",
+    "created_at": "2026-05-06T03:33:54.402809+00:00"
+  },
+  {
+    "id": "D317A01D",
+    "server_id": 1479553527222239275,
+    "channel_id": 1501429098973499438,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "open",
+    "created_at": "2026-05-06T03:43:12.819230+00:00"
   }
 ]

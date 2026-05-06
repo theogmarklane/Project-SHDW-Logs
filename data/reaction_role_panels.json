@@ -67,5 +67,25 @@
         "style": "primary"
       }
     ]
+  },
+  {
+    "guild_id": 1479553527222239275,
+    "channel_id": 1480307597755023510,
+    "message_id": 1501433849715097720,
+    "title": "Xenor Tech's Reaction Roles",
+    "items": [
+      {
+        "role_id": 1501433323401248791,
+        "emoji": "🔔",
+        "label": "Announcements",
+        "style": "primary"
+      },
+      {
+        "role_id": 1479553527222239276,
+        "emoji": "✔️",
+        "label": "Member",
+        "style": "primary"
+      }
+    ]
   }
 ]

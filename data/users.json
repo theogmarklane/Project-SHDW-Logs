@@ -42,7 +42,7 @@
     "display_name": "DoNOT :3 TheDonut :>"
   },
   "1019698414839156817": {
-    "xp": 3488,
+    "xp": 3528,
     "level": 12,
     "username": "xenor_dev",
     "display_name": "Xenor",
@@ -1437,5 +1437,9 @@
     "level": 1,
     "username": "johanaa0364_82640",
     "display_name": "Johanaa"
+  },
+  "1404840533326696530": {
+    "xp": 10,
+    "level": 1
   }
 }

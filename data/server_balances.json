@@ -5,18 +5,111 @@
     },
     "718944181296300082": {
       "dabloons": 50.0
+    },
+    "1019698414839156817": {
+      "dabloons": Infinity,
+      "ledger": [
+        {
+          "type": "Work (Pizza Delivery Driver)",
+          "amount": 11,
+          "timestamp": "2026-05-07 00:34"
+        },
+        {
+          "type": "Daily Reward",
+          "amount": 104,
+          "timestamp": "2026-05-07 00:34"
+        },
+        {
+          "type": "Weekly Reward",
+          "amount": 233,
+          "timestamp": "2026-05-07 00:34"
+        }
+      ]
+    },
+    "1365071801201463330": {
+      "dabloons": 364.0,
+      "ledger": [
+        {
+          "type": "Daily Reward",
+          "amount": 85,
+          "timestamp": "2026-05-07 07:47"
+        },
+        {
+          "type": "Weekly Reward",
+          "amount": 279,
+          "timestamp": "2026-05-07 07:47"
+        }
+      ]
     }
   },
   "1374332892708343928": {
     "1220968702200250368": {
-      "dabloons": 371.0
+      "dabloons": 979.44,
+      "ledger": [
+        {
+          "type": "Daily Reward",
+          "amount": 76,
+          "timestamp": "2026-05-06 09:25"
+        },
+        {
+          "type": "Work (Astronaut)",
+          "amount": 79,
+          "timestamp": "2026-05-06 09:25"
+        },
+        {
+          "type": "Rob Fine",
+          "amount": -38,
+          "timestamp": "2026-05-06 09:27"
+        },
+        {
+          "type": "Robbed 𝔐𝔬𝔫𝔤𝔬𝔬𝔰𝔢",
+          "amount": 97.44,
+          "timestamp": "2026-05-06 11:27"
+        },
+        {
+          "type": "Weekly Reward",
+          "amount": 394,
+          "timestamp": "2026-05-06 11:28"
+        }
+      ]
     },
     "1365071801201463330": {
-      "dabloons": 431.0
+      "dabloons": 497.55999999999995,
+      "ledger": [
+        {
+          "type": "Daily Reward",
+          "amount": 72,
+          "timestamp": "2026-05-06 10:44"
+        },
+        {
+          "type": "Work (Astronaut)",
+          "amount": 70,
+          "timestamp": "2026-05-06 10:44"
+        },
+        {
+          "type": "Robbed by HuZz",
+          "amount": -97.44,
+          "timestamp": "2026-05-06 11:27"
+        },
+        {
+          "type": "Rob Fine",
+          "amount": -28,
+          "timestamp": "2026-05-06 11:36"
+        }
+      ]
     }
   },
   "1345393622895300672": {
     "1472623063928537294": {
+      "dabloons": 100.0
+    },
+    "1019698414839156817": {
+      "dabloons": 100.0
+    },
+    "1429812009410756612": {
+      "dabloons": 100.0
+    },
+    "1445433326671237231": {
       "dabloons": 50.0
     }
   },
@@ -57,6 +150,9 @@
   },
   "1500532187026559136": {
     "1438390145064767488": {
+      "dabloons": 50.0
+    },
+    "1324954312169885892": {
       "dabloons": 50.0
     }
   }

@@ -2,7 +2,49 @@
   "1479553527222239275": {
     "panel_title": "Xenor Tech's Ticket Panel",
     "panel_description": null,
-    "category_name": "🎫[TICKETS]",
+    "category_name": "🎫 [TICKETS]",
+    "panel_color": "#5865F2",
+    "panel_footer": "Ticket System",
+    "panel_thumbnail": null,
+    "panel_image": null,
+    "panel_placeholder": "🎫 Select a ticket type...",
+    "type_overrides": {
+      "support": {
+        "label": "Support",
+        "emoji": "📩",
+        "description": "Get help from the staff team",
+        "color": "#5865F2"
+      },
+      "purchase": {
+        "label": "Purchase",
+        "emoji": "🛡️",
+        "description": "Buy one of Xenor Tech's products or services.",
+        "color": "#ED4245"
+      },
+      "report_user": {
+        "label": "Report User",
+        "emoji": "⚠️",
+        "description": "Report a user for rule violations",
+        "color": "#FEE75C"
+      },
+      "bot_issue": {
+        "label": "Bot Issue / Bug",
+        "emoji": "🐛",
+        "description": "Report a bot bug or issue",
+        "color": "#57F287"
+      },
+      "other": {
+        "label": "Other",
+        "emoji": "📁",
+        "description": "Anything else not listed above",
+        "color": "#9B59B6"
+      }
+    }
+  },
+  "1500532187026559136": {
+    "panel_title": "🎫 Support Tickets",
+    "panel_description": null,
+    "category_name": "🎫 [TICKETS]",
     "panel_color": "#5865F2",
     "panel_footer": "Ticket System",
     "panel_thumbnail": null,

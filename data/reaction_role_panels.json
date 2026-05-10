@@ -66,55 +66,5 @@
         "style": "primary"
       }
     ]
-  },
-  {
-    "guild_id": 1479553527222239275,
-    "channel_id": 1501434423688822907,
-    "message_id": 1502885503408672849,
-    "title": "Xenor Tech's Reaction Roles",
-    "items": [
-      {
-        "role_id": 1501433323401248791,
-        "emoji": "🔔",
-        "label": "Announcements",
-        "style": "primary"
-      },
-      {
-        "role_id": 1502881010587537498,
-        "emoji": "💥",
-        "label": "Nuke Bot Updates",
-        "style": "primary"
-      },
-      {
-        "role_id": 1502881620900708373,
-        "emoji": "⬆️",
-        "label": "Uptime Updates",
-        "style": "primary"
-      },
-      {
-        "role_id": 1502881733526421614,
-        "emoji": "⬇️",
-        "label": "Downtime Updates",
-        "style": "primary"
-      },
-      {
-        "role_id": 1502880886335606947,
-        "emoji": "😎",
-        "label": "Project Xenor Updates",
-        "style": "primary"
-      },
-      {
-        "role_id": 1502881310035808297,
-        "emoji": "🤔",
-        "label": "Server Updates",
-        "style": "primary"
-      },
-      {
-        "role_id": 1479553527222239276,
-        "emoji": "✔️",
-        "label": "Member",
-        "style": "primary"
-      }
-    ]
   }
 ]

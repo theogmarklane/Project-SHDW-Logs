@@ -1,0 +1,22 @@
+[
+  {
+    "id": "880493CF",
+    "server_id": 1496679534538395750,
+    "user_id": 917480659155554324,
+    "user_name": "stefa727.",
+    "moderator_id": 1442364240416473149,
+    "duration_minutes": 1,
+    "reason": "minute",
+    "timestamp": "2026-04-24T04:19:13.217147+00:00"
+  },
+  {
+    "id": "B67C3A72",
+    "server_id": 1503588709499404389,
+    "user_id": 1503923778051117258,
+    "user_name": "lewis068455",
+    "moderator_id": 1215072273833267230,
+    "duration_minutes": 60,
+    "reason": "No reason provided",
+    "timestamp": "2026-05-13T03:11:03.786463+00:00"
+  }
+]

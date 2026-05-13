@@ -302,7 +302,18 @@
     "channel_id": 1503956845801242785,
     "user_id": 1503923778051117258,
     "ticket_type": "other",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-13T03:07:34.673328+00:00"
+  },
+  {
+    "id": "58CE035B",
+    "server_id": 1479553527222239275,
+    "channel_id": 1504243103341740084,
+    "user_id": 1019698414839156817,
+    "ticket_type": "support",
+    "status": "open",
+    "created_at": "2026-05-13T22:05:03.588347+00:00",
+    "claimer_id": null,
+    "vouched_by": []
   }
 ]

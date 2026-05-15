@@ -150,5 +150,45 @@
         "style": "primary"
       }
     ]
+  },
+  {
+    "guild_id": 1345393622895300672,
+    "channel_id": 1499934252345852046,
+    "message_id": 1504666659133329569,
+    "title": "🎭 Reaction Roles",
+    "items": [
+      {
+        "role_id": 1479632022203793512,
+        "emoji": "🔴",
+        "label": "Youtuber",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500688619692626040,
+        "emoji": "⚫️",
+        "label": "TikToker",
+        "style": "primary"
+      }
+    ]
+  },
+  {
+    "guild_id": 1345393622895300672,
+    "channel_id": 1499934252345852046,
+    "message_id": 1504667273917632734,
+    "title": "🎭 Reaction Roles",
+    "items": [
+      {
+        "role_id": 1479632022203793512,
+        "emoji": "🔴",
+        "label": "YouTube",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500688619692626040,
+        "emoji": "⚫️",
+        "label": "Tiktok",
+        "style": "primary"
+      }
+    ]
   }
 ]

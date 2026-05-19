@@ -136,5 +136,28 @@
     "log_channel_id": 0,
     "exempt_roles": "",
     "exempt_channels": ""
+  },
+  "1506103370619031572": {
+    "antispam_enabled": 0,
+    "antispam_max_msgs": 5,
+    "antispam_interval": 5,
+    "antispam_action": "mute",
+    "antilink_enabled": 0,
+    "antilink_action": "delete",
+    "antilink_whitelist": "",
+    "wordfilter_enabled": 0,
+    "wordfilter_words": "",
+    "wordfilter_action": "delete",
+    "antimention_enabled": 0,
+    "antimention_max": 5,
+    "anticaps_enabled": 0,
+    "anticaps_percent": 70,
+    "anticaps_min_length": 10,
+    "antiraid_enabled": 1,
+    "antiraid_joins": 10,
+    "antiraid_seconds": 10,
+    "log_channel_id": 0,
+    "exempt_roles": "",
+    "exempt_channels": ""
   }
 }

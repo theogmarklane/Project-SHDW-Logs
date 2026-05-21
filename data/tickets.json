@@ -158,7 +158,7 @@
     "channel_id": 1501426727291719750,
     "user_id": 1019698414839156817,
     "ticket_type": "report_user",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-06T03:33:47.196965+00:00"
   },
   {
@@ -447,6 +447,17 @@
     "ticket_type": "purchase",
     "status": "closed",
     "created_at": "2026-05-20T23:59:21.335779+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "0D3A765D",
+    "server_id": 1479553527222239275,
+    "channel_id": 1507097868320768123,
+    "user_id": 1019698414839156817,
+    "ticket_type": "report_user",
+    "status": "open",
+    "created_at": "2026-05-21T19:08:52.615098+00:00",
     "claimer_id": null,
     "vouched_by": []
   }

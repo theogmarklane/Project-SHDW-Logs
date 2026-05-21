@@ -368,8 +368,85 @@
     "channel_id": 1505409665339490344,
     "user_id": 1454906351129202853,
     "ticket_type": "other",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-17T03:20:33.708634+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "F491EB50",
+    "server_id": 1503588709499404389,
+    "channel_id": 1505591802940358827,
+    "user_id": 1454906351129202853,
+    "ticket_type": "purchase",
+    "status": "closed",
+    "created_at": "2026-05-17T15:24:18.424155+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "16C2328F",
+    "server_id": 1503131456678002769,
+    "channel_id": 1505598264559538358,
+    "user_id": 1498437243348717578,
+    "ticket_type": "support",
+    "status": "open",
+    "created_at": "2026-05-17T15:49:59.209371+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "DAD87235",
+    "server_id": 1503588709499404389,
+    "channel_id": 1505739642421641237,
+    "user_id": 1362486907564457995,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-05-18T01:11:46.172883+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "C15C99CA",
+    "server_id": 1479553527222239275,
+    "channel_id": 1506002884792160417,
+    "user_id": 1215072273833267230,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-05-18T18:37:48.137173+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "B2A0BCAC",
+    "server_id": 1506103370619031572,
+    "channel_id": 1506152320520687658,
+    "user_id": 1477059129984942111,
+    "ticket_type": "purchase",
+    "status": "closed",
+    "created_at": "2026-05-19T04:31:36.314449+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "5DA9D418",
+    "server_id": 1506103370619031572,
+    "channel_id": 1506268335388753970,
+    "user_id": 1477059129984942111,
+    "ticket_type": "other",
+    "status": "closed",
+    "created_at": "2026-05-19T12:12:36.453933+00:00",
+    "claimer_id": null,
+    "vouched_by": []
+  },
+  {
+    "id": "B56D20CD",
+    "server_id": 1503588709499404389,
+    "channel_id": 1506808582614810634,
+    "user_id": 979852931845222501,
+    "ticket_type": "purchase",
+    "status": "closed",
+    "created_at": "2026-05-20T23:59:21.335779+00:00",
     "claimer_id": null,
     "vouched_by": []
   }

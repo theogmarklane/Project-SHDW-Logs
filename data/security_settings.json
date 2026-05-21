@@ -157,7 +157,7 @@
   },
   "1506103370619031572": {
     "enabled": 1,
-    "log_channel": 0,
+    "log_channel": 1506147615757176842,
     "bot_whitelist_enabled": 1,
     "anti_nuke_enabled": 0,
     "anti_raid_enabled": 1,

@@ -357,7 +357,7 @@
     "channel_id": 1505065301719388271,
     "user_id": 1089616332334567524,
     "ticket_type": "other",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-16T04:32:10.606186+00:00",
     "claimer_id": null,
     "vouched_by": []

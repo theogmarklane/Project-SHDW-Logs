@@ -92,7 +92,7 @@
     "exempt_channels": ""
   },
   "1503131456678002769": {
-    "antispam_enabled": 0,
+    "antispam_enabled": 1,
     "antispam_max_msgs": 5,
     "antispam_interval": 5,
     "antispam_action": "mute",

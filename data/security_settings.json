@@ -23,7 +23,7 @@
     "nuke_threshold": 5,
     "nuke_interval": 10,
     "min_account_age": 0,
-    "lockdown_active": 0
+    "lockdown_active": 1
   },
   "1276298012393607231": {
     "enabled": 1,

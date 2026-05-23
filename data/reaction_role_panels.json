@@ -222,5 +222,49 @@
         "style": "primary"
       }
     ]
+  },
+  {
+    "guild_id": 1345393622895300672,
+    "channel_id": 1499934252345852046,
+    "message_id": 1507837468588900525,
+    "title": "🎭 Reaction Roles",
+    "items": [
+      {
+        "role_id": 1477391718419534131,
+        "emoji": "🎨",
+        "label": "Artist",
+        "style": "primary"
+      },
+      {
+        "role_id": 1477385025224835153,
+        "emoji": "👨‍💻",
+        "label": "Developer",
+        "style": "primary"
+      },
+      {
+        "role_id": 1507820806766596237,
+        "emoji": "✍️",
+        "label": "Editor",
+        "style": "primary"
+      },
+      {
+        "role_id": 1479632022203793512,
+        "emoji": "🟥",
+        "label": "Youtuber",
+        "style": "primary"
+      },
+      {
+        "role_id": 1500688619692626040,
+        "emoji": "◼️",
+        "label": "TikToker",
+        "style": "primary"
+      },
+      {
+        "role_id": 1503533526203760781,
+        "emoji": "🟦",
+        "label": "Robloxian",
+        "style": "primary"
+      }
+    ]
   }
 ]

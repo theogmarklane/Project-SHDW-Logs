@@ -460,5 +460,16 @@
     "created_at": "2026-05-21T19:08:52.615098+00:00",
     "claimer_id": null,
     "vouched_by": []
+  },
+  {
+    "id": "6BD2FA49",
+    "server_id": 1479553527222239275,
+    "channel_id": 1507880500398915767,
+    "user_id": 1477059129984942111,
+    "ticket_type": "purchase",
+    "status": "open",
+    "created_at": "2026-05-23T22:58:46.582310+00:00",
+    "claimer_id": null,
+    "vouched_by": []
   }
 ]

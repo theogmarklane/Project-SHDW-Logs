@@ -1,0 +1,12 @@
+[
+  {
+    "id": "B3943376",
+    "server_id": 1479553527222239275,
+    "user_id": 1220968702200250368,
+    "moderator_id": 1498958394986463232,
+    "reason": "Bot command used outside designated bot commands channel.",
+    "strike_number": 1,
+    "timestamp": "2026-05-23T00:13:43.268382+00:00",
+    "automated": true
+  }
+]

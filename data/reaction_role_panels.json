@@ -544,5 +544,49 @@
         "style": "primary"
       }
     ]
+  },
+  {
+    "guild_id": 1345393622895300672,
+    "channel_id": 1499934252345852046,
+    "message_id": 1507854203303887058,
+    "title": "🎭 Reaction Roles",
+    "items": [
+      {
+        "role_id": 1506820535168925757,
+        "emoji": "🦸",
+        "label": "Invincible",
+        "style": "primary"
+      },
+      {
+        "role_id": 1507578321158799460,
+        "emoji": "🤣",
+        "label": "Funny",
+        "style": "primary"
+      },
+      {
+        "role_id": 1477389149186293811,
+        "emoji": "🚘",
+        "label": "forklift certified",
+        "style": "primary"
+      },
+      {
+        "role_id": 1477388911943745597,
+        "emoji": "🙂",
+        "label": "chill guy",
+        "style": "primary"
+      },
+      {
+        "role_id": 1507818396958326854,
+        "emoji": "😎",
+        "label": "Tuff",
+        "style": "primary"
+      },
+      {
+        "role_id": 1491629078065713284,
+        "emoji": "💥",
+        "label": "skibidi boom",
+        "style": "primary"
+      }
+    ]
   }
 ]

@@ -18,5 +18,14 @@
     "strike_number": 1,
     "timestamp": "2026-05-23T00:29:28.089745+00:00",
     "automated": true
+  },
+  {
+    "id": "0EEDC69A",
+    "server_id": 1503588709499404389,
+    "user_id": 1372332722621780010,
+    "moderator_id": 1019698414839156817,
+    "reason": "Spamming his tiktok",
+    "strike_number": 1,
+    "timestamp": "2026-05-24T00:58:30.789044+00:00"
   }
 ]

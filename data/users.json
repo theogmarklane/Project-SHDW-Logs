@@ -30,7 +30,7 @@
     "display_name": "Silly"
   },
   "1276974534985121832": {
-    "xp": 137,
+    "xp": 157,
     "level": 15,
     "username": "ganmudm25_63166",
     "display_name": "Gan"
@@ -58,7 +58,7 @@
     "display_name": "Alvin!"
   },
   "1225523235366506627": {
-    "xp": 3818,
+    "xp": 3828,
     "level": 12,
     "username": "defynox",
     "display_name": "𝓓𝓮𝓯𝔂𝓷𝓸𝔁"
@@ -1415,7 +1415,7 @@
     "display_name": "salidfingersss7"
   },
   "1215072273833267230": {
-    "xp": 252,
+    "xp": 272,
     "level": 7,
     "username": "xmskwave",
     "display_name": "xmsk"
@@ -1788,6 +1788,10 @@
   },
   "1368436705253789707": {
     "xp": 30,
+    "level": 1
+  },
+  "1321168011947933768": {
+    "xp": 10,
     "level": 1
   }
 }

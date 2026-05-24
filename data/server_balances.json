@@ -69,7 +69,7 @@
       ]
     },
     "1365071801201463330": {
-      "dabloons": 1753.0,
+      "dabloons": 1842.0,
       "ledger": [
         {
           "type": "Daily Reward",
@@ -155,6 +155,11 @@
           "type": "Rob Fine",
           "amount": -53,
           "timestamp": "2026-05-19 10:43"
+        },
+        {
+          "type": "Daily Reward",
+          "amount": 89,
+          "timestamp": "2026-05-24 00:34"
         }
       ]
     },

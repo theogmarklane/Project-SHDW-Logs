@@ -18,5 +18,15 @@
     "duration_minutes": 60,
     "reason": "No reason provided",
     "timestamp": "2026-05-13T03:11:03.786463+00:00"
+  },
+  {
+    "id": "F40DF341",
+    "server_id": 1503588709499404389,
+    "user_id": 1355683156254265605,
+    "user_name": "amonguslegend.",
+    "moderator_id": 1215072273833267230,
+    "duration_minutes": 60,
+    "reason": "No reason provided",
+    "timestamp": "2026-05-24T21:21:46.800474+00:00"
   }
 ]

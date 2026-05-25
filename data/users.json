@@ -42,7 +42,7 @@
     "display_name": "DoNOT :3 TheDonut :>"
   },
   "1019698414839156817": {
-    "xp": 4897,
+    "xp": 4907,
     "level": 15,
     "username": "xenor_dev",
     "display_name": "Xenor",
@@ -82,7 +82,7 @@
     "display_name": "Daoon_Draws"
   },
   "1141232275447631932": {
-    "xp": 2238,
+    "xp": 2248,
     "level": 12,
     "username": "coffeestain._",
     "display_name": "coffeestain",
@@ -1809,5 +1809,9 @@
   "1508290591136419860": {
     "xp": 40,
     "level": 2
+  },
+  "1499666281991897259": {
+    "xp": 10,
+    "level": 1
   }
 }

@@ -478,7 +478,7 @@
     "channel_id": 1507887036873445417,
     "user_id": 1247999109080551528,
     "ticket_type": "purchase",
-    "status": "open",
+    "status": "closed",
     "created_at": "2026-05-23T23:24:44.922216+00:00",
     "claimer_id": null,
     "vouched_by": []

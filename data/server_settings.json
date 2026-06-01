@@ -3,7 +3,8 @@
     "welcome_channel_id": 1479553528413294621,
     "leveling_channel_id": 1498947517998563471,
     "log_channel_id": 1479553529084514321,
-    "announce_role_id": 1501433323401248791
+    "announce_role_id": 1501433323401248791,
+    "auto_translate_enabled": false
   },
   "1407135363138588803": {
     "leveling_channel_id": 1407135369484308521,

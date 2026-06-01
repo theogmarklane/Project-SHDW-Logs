@@ -55,6 +55,7 @@
     "leveling_channel_id": 1507473618836127804
   },
   "1066167051779055666": {
-    "welcome_channel_id": 1066167067864215693
+    "welcome_channel_id": 1066167067864215693,
+    "auto_translate_enabled": true
   }
 }

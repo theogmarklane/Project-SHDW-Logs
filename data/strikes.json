@@ -27,5 +27,15 @@
     "reason": "Spamming his tiktok",
     "strike_number": 1,
     "timestamp": "2026-05-24T00:58:30.789044+00:00"
+  },
+  {
+    "id": "DBC9DC76",
+    "server_id": 1479553527222239275,
+    "user_id": 1365071801201463330,
+    "moderator_id": 1498958394986463232,
+    "reason": "Bot command used outside designated bot commands channel.",
+    "strike_number": 1,
+    "timestamp": "2026-06-01T09:50:08.401214+00:00",
+    "automated": true
   }
 ]

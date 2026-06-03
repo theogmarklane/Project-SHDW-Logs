@@ -69,7 +69,7 @@
       ]
     },
     "1365071801201463330": {
-      "dabloons": 2314.0,
+      "dabloons": 2760.0,
       "ledger": [
         {
           "type": "Daily Reward",
@@ -170,6 +170,21 @@
           "type": "Work (Pizza Delivery Driver)",
           "amount": 33,
           "timestamp": "2026-05-24 00:34"
+        },
+        {
+          "type": "Daily Reward",
+          "amount": 121,
+          "timestamp": "2026-06-03 21:58"
+        },
+        {
+          "type": "Weekly Reward",
+          "amount": 294,
+          "timestamp": "2026-06-03 21:58"
+        },
+        {
+          "type": "Work (Pizza Delivery Driver)",
+          "amount": 31,
+          "timestamp": "2026-06-03 21:58"
         }
       ]
     },

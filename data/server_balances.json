@@ -66,6 +66,13 @@
           "amount": 233,
           "timestamp": "2026-05-07 00:34"
         }
+      ],
+      "inventory": [
+        {
+          "name": "Rare Badge",
+          "cost": 500,
+          "emoji": "🎯"
+        }
       ]
     },
     "1365071801201463330": {

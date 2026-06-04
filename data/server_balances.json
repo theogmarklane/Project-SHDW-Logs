@@ -1,7 +1,7 @@
 {
   "1479553527222239275": {
     "1220968702200250368": {
-      "dabloons": 916.0,
+      "dabloons": 1358.0,
       "ledger": [
         {
           "type": "Daily Reward",
@@ -42,6 +42,21 @@
           "type": "Rob Fine",
           "amount": -54,
           "timestamp": "2026-05-19 10:42"
+        },
+        {
+          "type": "Weekly Reward",
+          "amount": 306,
+          "timestamp": "2026-06-04 11:29"
+        },
+        {
+          "type": "Daily Reward",
+          "amount": 94,
+          "timestamp": "2026-06-04 11:29"
+        },
+        {
+          "type": "Work (Hacker)",
+          "amount": 42,
+          "timestamp": "2026-06-04 11:29"
         }
       ]
     },
@@ -486,6 +501,9 @@
       "dabloons": 0.0
     },
     "1019698414839156817": {
+      "dabloons": 0.0
+    },
+    "1220968702200250368": {
       "dabloons": 0.0
     }
   },
